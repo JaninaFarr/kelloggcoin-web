@@ -6,7 +6,7 @@
 - Upon opening in Gitpod, run `rails db:setup` to setup the database, then `rails runner scripts/create_data.rb` – have a look at this script to see what data is being created when the script is executed – expected output of this script is `There are 5 users and 100 transactions.`
 - Open the `db/schema.rb` file to see the domain model
 - Open the `config/routes.rb` file and note that a resource for *transactions* is already set up for you
-- Open the `app/controllers` folder and note that a controller for *transactions* is already set up for you
+- Open the `app/controllers` folder and note that a controller fosr *transactions* is already set up for you
 - Open `app/views/transactions/index.html.erb` and modify the code in two steps, as described below
 
 ## Goals
